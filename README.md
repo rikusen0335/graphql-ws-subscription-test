@@ -23,3 +23,6 @@ We are currently using `graphql-ws`, but you can also use `subscriptions-transpo
 
 ### Anything about you wanna ask
 Contact to my Twitter or Discord, or other contact but may unable to respond.
+
+## References
+- [Original server implementation](https://github.com/apollographql/docs-examples/tree/main/apollo-server/v4/subscriptions-graphql-ws)
